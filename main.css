@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(36,35,41);
+}
+.container-hero {
+  background-image: url('Images/aziz-acharki-257678-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.col-primary {
+  background-color: rgba(192,192,192,0.5);
+  height: 100vh;
+  width: 60vw;
+  padding-top: 14rem;
+}
+
+.headline {
+  color: #fff;
+  padding-bottom: 1rem;
+}
+
+div.navbar-fixed{
+    position: fixed;
+}
+
+h2{
+    color: #fff;
+    text-align: center;
+}
+
+p{
+    color: rgb(250,250,250);
+}
